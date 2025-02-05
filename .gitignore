@@ -1,0 +1,3 @@
+config/csv_create/test.csv
+config/csv_create/train.csv
+.ipynb_checkpoints/
